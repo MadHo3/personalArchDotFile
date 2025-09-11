@@ -1,0 +1,15 @@
+[General]
+HideXTrashFile=true
+LockPanels=false
+Version=202
+ViewPropsTimestamp=2025,9,6,23,35,23.688
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+
+[PreviewSettings]
+Plugins=appimagethumbnail,comicbookthumbnail,windowsimagethumbnail,kraorathumbnail,cursorthumbnail,opendocumentthumbnail,windowsexethumbnail,svgthumbnail,ebookthumbnail,audiothumbnail,jpegthumbnail,directorythumbnail,djvuthumbnail,exrthumbnail,imagethumbnail,librsvg,gdk-pixbuf-thumbnailer,avif,heif,jxl

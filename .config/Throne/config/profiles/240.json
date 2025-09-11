@@ -1,0 +1,49 @@
+{
+    "bean": {
+        "_v": 0,
+        "addr": "104.18.149.76",
+        "aid": 0,
+        "brutal_speed": 0,
+        "c_cfg": "",
+        "c_out": "",
+        "enable_brutal": false,
+        "id": "de94cc0a-0592-4969-b1fc-97ea8f0ea0b3",
+        "mux": 0,
+        "name": "@v2FreeHub | United States",
+        "port": 443,
+        "sec": "auto",
+        "stream": {
+            "alpn": "",
+            "cert": "",
+            "ed_len": 0,
+            "ed_name": "",
+            "h_type": "---",
+            "headers": "",
+            "host": "us.kkp.me.eu.org",
+            "insecure": false,
+            "method": "",
+            "net": "ws",
+            "pac_enc": "",
+            "path": "/aa",
+            "pbk": "",
+            "sec": "tls",
+            "sid": "",
+            "sni": "us.kkp.me.eu.org",
+            "tls_frag": false,
+            "tls_frag_fall_delay": "",
+            "tls_record_frag": false,
+            "utls": ""
+        }
+    },
+    "dl": "",
+    "gid": 0,
+    "id": 240,
+    "report": "",
+    "traffic": {
+        "dl": 0,
+        "ul": 0
+    },
+    "type": "vmess",
+    "ul": "",
+    "yc": -1
+}

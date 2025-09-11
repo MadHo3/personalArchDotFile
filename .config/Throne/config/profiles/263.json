@@ -1,0 +1,48 @@
+{
+    "bean": {
+        "_v": 0,
+        "addr": "185.176.24.195",
+        "brutal_speed": 0,
+        "c_cfg": "",
+        "c_out": "",
+        "enable_brutal": false,
+        "flow": "",
+        "mux": 0,
+        "name": "@v2FreeHub | Russia",
+        "pass": "slch2024",
+        "port": 2096,
+        "stream": {
+            "alpn": "",
+            "cert": "",
+            "ed_len": 0,
+            "ed_name": "",
+            "h_type": "",
+            "headers": "",
+            "host": "ocost-dy.wmlefl.cc",
+            "insecure": false,
+            "method": "",
+            "net": "ws",
+            "pac_enc": "",
+            "path": "/TelegramU0001F1E8U0001F1F3",
+            "pbk": "",
+            "sec": "tls",
+            "sid": "",
+            "sni": "ocost-dy.wmlefl.cc",
+            "tls_frag": false,
+            "tls_frag_fall_delay": "",
+            "tls_record_frag": false,
+            "utls": ""
+        }
+    },
+    "dl": "",
+    "gid": 0,
+    "id": 263,
+    "report": "",
+    "traffic": {
+        "dl": 0,
+        "ul": 0
+    },
+    "type": "trojan",
+    "ul": "",
+    "yc": -1
+}
